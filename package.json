@@ -1,7 +1,7 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
   "name": "context7",
-  "title": "Context7 MCP",
+  "title": "Context7 Mcp",
   "description": "Interact with the Context7 MCP in Raycast AI",
   "icon": "context7-icon.png",
   "author": "REAV",

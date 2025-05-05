@@ -9,7 +9,7 @@ export default function Command() {
   ## Buy me a coffee 😊
   If you find this extension valuable and would like to buy me a coffee for it, Your support is greatly appreciated!
   `;
-  
+
   return (
     <Detail
       markdown={markdown}
